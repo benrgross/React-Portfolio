@@ -13,7 +13,7 @@ function App() {
     <Router>
       <div
         style={{
-          backgroundImage: `url("http://clipart-library.com/images/qcBozeyRi.jpg")`,
+          backgroundImage: `url("https://cdn.shopify.com/s/files/1/0285/1316/products/w0229_1s_Falling-Fern-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1604085918")`,
         }}
       >
         <Navbar />
