@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Weather Dash",
+    "web": "https://github.com/benrgross/Weather-Dashboard",
+    "repo": "https://benrgross.github.io/Weather-Dashboard/",
+    "image": "../../../public/images/weather.png",
+    "tech": [
+      "JavaScript",
+      "JQuery",
+      "MomentJs",
+      "Open Weather API",
+      "Bootstrap"
+    ]
+  },
+  {
+    "name": "Pipe Cleaner",
+    "web": "https://github.com/benrgross/Party-Of-Four",
+    "repo": "https://four-top.herokuapp.com/",
+    "image": "../../public/images/pipe.png",
+    "tech": [
+      "JavaScript",
+      "JQuery",
+      "Node JS",
+      "Express",
+      "Sequelize",
+      "MYSQL",
+      "JAWSDB",
+      "MVC",
+      "Bulma",
+      "Handlenbars",
+      "Passport"
+    ]
+  },
+  {
+    "name": "Build A Burger",
+    "web": "https://github.com/benrgross/Build-A-Burger",
+    "repo": "https://burger-fun.herokuapp.com/",
+    "image": "../../public/images/burger.png",
+    "tech": [
+      "JavaScript",
+      "Node JS",
+      "Express",
+      "Custom ORM",
+      "MYSQL",
+      "JAWSDB",
+      "MVC",
+      "Bootstrap",
+      "Handlenbars"
+    ]
+  },
+  {
+    "name": "Employee Directory",
+    "web": "https://benrgross.github.io/employee-directory/",
+    "repo": "https://github.com/benrgross/employee-directory",
+    "image": "../../public/images/directory.png",
+    "tech": ["React JS", "Third Party API", "Bootstrap"]
+  },
+  {
+    "name": "Coding Quiz",
+    "web": "https://github.com/benrgross/Coding-Quiz",
+    "repo": "https://benrgross.github.io/Coding-Quiz/",
+    "image": "../../public/images/quiz-md.png",
+    "tech": ["JavaScript"]
+  },
+  {
+    "name": "Whats For Dinner",
+    "web": "https://github.com/benrgross/Whats-For-Dinner",
+    "repo": "https://benrgross.github.io/Whats-For-Dinner/",
+    "image": "../../public/images/directory.png",
+    "tech": [
+      "JavaScript",
+      "JQuery",
+      "Bootstrap",
+      "Spoonacular API",
+      "Google Maps API"
+    ]
+  },
+  {
+    "name": "Budget Buddy",
+    "web": " https://budget-fun.herokuapp.com/",
+    "repo": "https://github.com/benrgross/Budget-Buddy",
+    "image": "../../public/images/budget.png",
+    "tech": [
+      "JavaScript",
+      "Node JS",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Indexed DB",
+      "Service Worker",
+      "PWD",
+      "Chart JS",
+      "Bootstrap",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Workout Tracker",
+    "web": " https://workout-fun.herokuapp.com/",
+    "repo": "https://github.com/benrgross/Workout-Tracker",
+    "image": "../../public/images/fitness.png",
+    "tech": [
+      "JavaScript",
+      "Node JS",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Chart JS",
+      "Bootstrap",
+      "AWS"
+    ]
+  }
+]
