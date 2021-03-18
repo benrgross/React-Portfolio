@@ -1,19 +1,31 @@
-import Card from "../Card/Card";
 import React, { useState } from "react";
-import info from "../../utils/portfolio.json";
-
 import "./style.css";
+import Card from "../Card/Card";
+import Row from "../Row";
+// import Col from "../Col";
+import info from "../../utils/portfolio.json";
 
 function Portfolio() {
   const [infoState] = useState({
     info,
   });
 
-  console.log(info);
   return (
-    <div className="container">
-      <Card info={infoState.info} />
-    </div>
+    <>
+      <Row className="port-card">
+        {/* <Col size="md-4"> */}
+        {infoState.info.map((info) => (
+          <Card
+            name={info.name}
+            web={info.web}
+            repo={info.repo}
+            image={info.image}
+            tech={info.tech}
+          />
+        ))}
+        {/* </Col> */}
+      </Row>
+    </>
   );
 }
 

@@ -3,7 +3,7 @@
     "name": "Weather Dash",
     "web": "https://github.com/benrgross/Weather-Dashboard",
     "repo": "https://benrgross.github.io/Weather-Dashboard/",
-    "image": "../../../public/images/weather.png",
+    "image": "/weather.png",
     "tech": [
       "JavaScript",
       "JQuery",
@@ -16,7 +16,7 @@
     "name": "Pipe Cleaner",
     "web": "https://github.com/benrgross/Party-Of-Four",
     "repo": "https://four-top.herokuapp.com/",
-    "image": "../../public/images/pipe.png",
+    "image": "/pipe.png",
     "tech": [
       "JavaScript",
       "JQuery",
@@ -35,7 +35,7 @@
     "name": "Build A Burger",
     "web": "https://github.com/benrgross/Build-A-Burger",
     "repo": "https://burger-fun.herokuapp.com/",
-    "image": "../../public/images/burger.png",
+    "image": "/burger-sm.png",
     "tech": [
       "JavaScript",
       "Node JS",
@@ -52,21 +52,21 @@
     "name": "Employee Directory",
     "web": "https://benrgross.github.io/employee-directory/",
     "repo": "https://github.com/benrgross/employee-directory",
-    "image": "../../public/images/directory.png",
+    "image": "/directory.png",
     "tech": ["React JS", "Third Party API", "Bootstrap"]
   },
   {
     "name": "Coding Quiz",
     "web": "https://github.com/benrgross/Coding-Quiz",
     "repo": "https://benrgross.github.io/Coding-Quiz/",
-    "image": "../../public/images/quiz-md.png",
+    "image": "/quiz-md.png",
     "tech": ["JavaScript"]
   },
   {
     "name": "Whats For Dinner",
     "web": "https://github.com/benrgross/Whats-For-Dinner",
     "repo": "https://benrgross.github.io/Whats-For-Dinner/",
-    "image": "../../public/images/directory.png",
+    "image": "/dinner.png",
     "tech": [
       "JavaScript",
       "JQuery",
@@ -79,7 +79,7 @@
     "name": "Budget Buddy",
     "web": " https://budget-fun.herokuapp.com/",
     "repo": "https://github.com/benrgross/Budget-Buddy",
-    "image": "../../public/images/budget.png",
+    "image": "/budget.png",
     "tech": [
       "JavaScript",
       "Node JS",
@@ -98,7 +98,7 @@
     "name": "Workout Tracker",
     "web": " https://workout-fun.herokuapp.com/",
     "repo": "https://github.com/benrgross/Workout-Tracker",
-    "image": "../../public/images/fitness.png",
+    "image": "/fitness.png",
     "tech": [
       "JavaScript",
       "Node JS",
