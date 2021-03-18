@@ -2,10 +2,19 @@ nav.navbar.navbar-default {
   margin-bottom: 0;
 }
 
-Nav {
-  background-color: aqua;
+.navbar {
+  height: 75px;
+  color: #013d21;
+}
+
+.navbar-brand {
+  color: #013d21;
 }
 
 .nav-group {
   margin-right: 50px;
+}
+
+.nav-text {
+  color: #013d21 !important;
 }

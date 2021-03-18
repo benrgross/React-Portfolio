@@ -9,8 +9,8 @@ function Navbar() {
       style={{ backgroundColor: "rgb(248, 235, 213)" }}
       className="navbar navbar-expand-md  navbar-dark pr-lg-1 pl-sm-5 justify-content-between"
     >
-      <Link className="navbar-brand" to="/">
-        Ben Gros
+      <Link className="navbar-brand nav-text" to="/">
+        Ben Gross
       </Link>
 
       <button
@@ -26,17 +26,17 @@ function Navbar() {
       <div className="navbar-collapse collapse nav-group " id="navbar-toggle">
         <ul className="navbar-nav ml-auto nav-group">
           <li className="nav-item">
-            <Link to="/about" className="nav-link">
+            <Link to="/about" className="nav-link nav-text">
               About
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/portfolio" className="nav-link">
+            <Link to="/portfolio" className="nav-link nav-text">
               Portfolio
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/contact" className="nav-link">
+            <Link to="/contact" className="nav-link nav-text">
               Contact
             </Link>
           </li>
