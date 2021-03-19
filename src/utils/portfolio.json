@@ -1,5 +1,24 @@
 [
   {
+    "name": "Build A Burger",
+    "repo": "https://github.com/benrgross/Build-A-Burger",
+    "web": "https://burger-fun.herokuapp.com/",
+    "image": "/burger-sm.png",
+    "gif": "/burger.gif",
+    "tech": [
+      "JavaScript",
+      "Node JS",
+      "Express",
+      "Custom ORM",
+      "MYSQL",
+      "JAWSDB",
+      "MVC",
+      "Bootstrap",
+      "Handlenbars"
+    ]
+  },
+
+  {
     "name": "Weather Dash",
     "repo": "https://github.com/benrgross/Weather-Dashboard",
     "web": "https://benrgross.github.io/Weather-Dashboard/",
@@ -12,6 +31,15 @@
       "Open Weather API",
       "Bootstrap"
     ]
+  },
+
+  {
+    "name": "Employee Directory",
+    "repo": "https://benrgross.github.io/employee-directory/",
+    "web": "https://github.com/benrgross/employee-directory",
+    "image": "/directory.png",
+    "gif": "./employee-dir.gif",
+    "tech": ["React JS", "Third Party API", "Bootstrap"]
   },
   {
     "name": "Pipe Cleaner",
@@ -33,32 +61,7 @@
       "Passport"
     ]
   },
-  {
-    "name": "Build A Burger",
-    "repo": "https://github.com/benrgross/Build-A-Burger",
-    "web": "https://burger-fun.herokuapp.com/",
-    "image": "/burger-sm.png",
-    "gif": "/burger.gif",
-    "tech": [
-      "JavaScript",
-      "Node JS",
-      "Express",
-      "Custom ORM",
-      "MYSQL",
-      "JAWSDB",
-      "MVC",
-      "Bootstrap",
-      "Handlenbars"
-    ]
-  },
-  {
-    "name": "Employee Directory",
-    "repo": "https://benrgross.github.io/employee-directory/",
-    "web": "https://github.com/benrgross/employee-directory",
-    "image": "/directory.png",
-    "gif": "./employee-dir.gif",
-    "tech": ["React JS", "Third Party API", "Bootstrap"]
-  },
+
   {
     "name": "Coding Quiz",
     "repo": "https://github.com/benrgross/Coding-Quiz",
