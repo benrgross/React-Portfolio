@@ -17,7 +17,7 @@ nav.navbar.navbar-default {
 }
 
 .nav-text {
-  color: #365e03 !important;
-  font-weight: bolder;
+  color: rgb(11, 65, 45) !important;
+  font-weight: 900;
   font-size: large;
 }
