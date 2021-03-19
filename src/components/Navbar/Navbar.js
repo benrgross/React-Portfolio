@@ -6,7 +6,7 @@ import "./style.css";
 function Navbar() {
   return (
     <Nav
-      style={{ backgroundColor: "rgb(248, 235, 213)" }}
+      style={{ backgroundColor: "rgb(206 153 4 / 65%)" }}
       className="navbar navbar-expand-md  navbar-dark pr-lg-1 pl-sm-5 justify-content-between"
     >
       <Link className="navbar-brand nav-text" to="/">
@@ -14,7 +14,7 @@ function Navbar() {
       </Link>
 
       <button
-        className="navbar-toggler"
+        className="navbar-toggler ml-auto"
         type="button"
         data-toggle="collapse"
         data-target="#navbar-toggle"
@@ -24,7 +24,7 @@ function Navbar() {
         <span className="navbar-toggler-icon" />
       </button>
       <div className="navbar-collapse collapse nav-group " id="navbar-toggle">
-        <ul className="navbar-nav ml-auto nav-group">
+        <ul className="navbar-nav nav-group ml-auto ">
           <li className="nav-item">
             <Link to="/about" className="nav-link nav-text">
               About

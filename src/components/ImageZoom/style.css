@@ -1,0 +1,6 @@
+.img-zoom {
+  z-index: 3;
+  height: 300px;
+  width: 300px;
+  background-color: white;
+}

@@ -1,5 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
+
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
 import Intro from "./components/Intro/Intro";
@@ -13,7 +14,8 @@ function App() {
     <Router>
       <div
         style={{
-          backgroundImage: `url("https://cdn.shopify.com/s/files/1/0285/1316/products/w0229_1s_Falling-Fern-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1604085918")`,
+          backgroundImage: `url("/fern.jpg")`,
+          // backgroundSize: "100% 100%",
         }}
       >
         <Navbar />
@@ -21,8 +23,8 @@ function App() {
         <Route exact path="/about" component={About} />
         <Route exact path="/portfolio" component={Portfolio} />
         <Route path="/contact" component={Contact} />
+        <Footer />
       </div>
-      <Footer />
     </Router>
   );
 }

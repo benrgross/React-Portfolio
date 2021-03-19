@@ -1,4 +1,5 @@
 import React from "react";
+
 import { useSpring, animated } from "react-spring";
 import "./image.css";
 
@@ -10,17 +11,21 @@ const calc = (x, y) => [
 const trans = (x, y, s) =>
   `perspective(600px) rotateX(${x}deg) rotateY(${y}deg) scale(${s})`;
 
-function Image({ source }) {
+function Image({ img, gif, name, onClick, showGif }) {
   const [props, set] = useSpring(() => ({
     xys: [0, 0, 1],
-    config: { mass: 5, tension: 350, friction: 40 },
+    config: { mass: 4, tension: 450, friction: 40 },
   }));
   return (
     <animated.img
-      src={source}
-      alt="name"
-      class="card"
+      key={name}
+      src={showGif.value ? gif : img}
+      alt={name}
+      onClick={onClick}
+      className="card"
       onMouseMove={({ clientX: x, clientY: y }) => set({ xys: calc(x, y) })}
+      onMouseEnter={showGif.setTrue}
+      onMouseOut={showGif.setFalse}
       onMouseLeave={() => set({ xys: [0, 0, 1] })}
       style={{
         transform: props.xys.interpolate(trans),

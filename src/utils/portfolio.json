@@ -1,9 +1,10 @@
 [
   {
     "name": "Weather Dash",
-    "web": "https://github.com/benrgross/Weather-Dashboard",
-    "repo": "https://benrgross.github.io/Weather-Dashboard/",
+    "repo": "https://github.com/benrgross/Weather-Dashboard",
+    "web": "https://benrgross.github.io/Weather-Dashboard/",
     "image": "/weather.png",
+    "gif": "/Weather.gif",
     "tech": [
       "JavaScript",
       "JQuery",
@@ -14,9 +15,10 @@
   },
   {
     "name": "Pipe Cleaner",
-    "web": "https://github.com/benrgross/Party-Of-Four",
-    "repo": "https://four-top.herokuapp.com/",
+    "repo": "https://github.com/benrgross/Party-Of-Four",
+    "web": "https://four-top.herokuapp.com/",
     "image": "/pipe.png",
+    "gif": "./pipe.gif",
     "tech": [
       "JavaScript",
       "JQuery",
@@ -33,9 +35,10 @@
   },
   {
     "name": "Build A Burger",
-    "web": "https://github.com/benrgross/Build-A-Burger",
-    "repo": "https://burger-fun.herokuapp.com/",
+    "repo": "https://github.com/benrgross/Build-A-Burger",
+    "web": "https://burger-fun.herokuapp.com/",
     "image": "/burger-sm.png",
+    "gif": "/burger.gif",
     "tech": [
       "JavaScript",
       "Node JS",
@@ -50,23 +53,26 @@
   },
   {
     "name": "Employee Directory",
-    "web": "https://benrgross.github.io/employee-directory/",
-    "repo": "https://github.com/benrgross/employee-directory",
+    "repo": "https://benrgross.github.io/employee-directory/",
+    "web": "https://github.com/benrgross/employee-directory",
     "image": "/directory.png",
+    "gif": "./employee-dir.gif",
     "tech": ["React JS", "Third Party API", "Bootstrap"]
   },
   {
     "name": "Coding Quiz",
-    "web": "https://github.com/benrgross/Coding-Quiz",
-    "repo": "https://benrgross.github.io/Coding-Quiz/",
+    "repo": "https://github.com/benrgross/Coding-Quiz",
+    "web": "https://benrgross.github.io/Coding-Quiz/",
     "image": "/quiz-md.png",
+    "gif": "./quiz-fun-ben.gif",
     "tech": ["JavaScript"]
   },
   {
     "name": "Whats For Dinner",
-    "web": "https://github.com/benrgross/Whats-For-Dinner",
-    "repo": "https://benrgross.github.io/Whats-For-Dinner/",
+    "repo": "https://github.com/benrgross/Whats-For-Dinner",
+    "web": "https://benrgross.github.io/Whats-For-Dinner/",
     "image": "/dinner.png",
+    "gif": "./whats-for-dinner.gif",
     "tech": [
       "JavaScript",
       "JQuery",
@@ -77,9 +83,10 @@
   },
   {
     "name": "Budget Buddy",
-    "web": " https://budget-fun.herokuapp.com/",
-    "repo": "https://github.com/benrgross/Budget-Buddy",
+    "repo": " https://budget-fun.herokuapp.com/",
+    "web": "https://github.com/benrgross/Budget-Buddy",
     "image": "/budget.png",
+    "gif": "./budget.gif",
     "tech": [
       "JavaScript",
       "Node JS",
@@ -96,9 +103,10 @@
   },
   {
     "name": "Workout Tracker",
-    "web": " https://workout-fun.herokuapp.com/",
-    "repo": "https://github.com/benrgross/Workout-Tracker",
+    "repo": " https://workout-fun.herokuapp.com/",
+    "web": "https://github.com/benrgross/Workout-Tracker",
     "image": "/fitness.png",
+    "gif": "./Workout-Gif.gif",
     "tech": [
       "JavaScript",
       "Node JS",

@@ -1,5 +1,5 @@
 let style = {
-  backgroundColor: "#F8F8F8",
+  backgroundColor: "rgb(206 153 4 / 65%)",
   borderTop: "1px solid #E7E7E7",
   textAlign: "center",
   padding: "20px",

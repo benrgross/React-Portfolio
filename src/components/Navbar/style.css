@@ -9,6 +9,7 @@ nav.navbar.navbar-default {
 
 .navbar-brand {
   color: #013d21;
+  font-weight: bolder;
 }
 
 .nav-group {
@@ -16,5 +17,7 @@ nav.navbar.navbar-default {
 }
 
 .nav-text {
-  color: #013d21 !important;
+  color: #365e03 !important;
+  font-weight: bolder;
+  font-size: large;
 }
