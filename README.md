@@ -14,7 +14,7 @@ This webpage is my personal portfolio built using React and utilizing the react 
 
 ## Usage
 
-![demo](./client/public/react-portfolio.gif)
+![demo](/public/react-portfolio.gif)
 
 deployed webpage here: https://dashboard.heroku.com/apps/benrgross-portfolio
 
