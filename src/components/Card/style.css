@@ -22,7 +22,7 @@
   text-align: left;
 }
 
-.col {
+.image-col {
   margin-top: 100px;
   margin-left: 40px;
   margin-right: 50px;
@@ -46,7 +46,7 @@
 }
 
 a {
-  color: aqua;
+  color: #fff;
 }
 
 .transform {
@@ -72,12 +72,12 @@ a {
     margin-left: -15px;
   }
 
-  .col {
-    margin-right: 100px !important;
-    margin-left: 100px !important;
+  .image-col {
+    margin-right: 50px;
+    margin-left: 50px;
   }
 }
-
+/*  */
 /* @media (min-width: 11000px) {
   .col {
     margin-top: 100px;

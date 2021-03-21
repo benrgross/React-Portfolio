@@ -7,17 +7,8 @@ function Card({ name, repo, web, image, tech, gif }) {
   const showInfo = useBoolean(false);
   const showGif = useBoolean(false);
 
-  //   const handleHoverLeave = () => {
-  //     showGif.setFalse;
-  //   };
   return (
-    <div
-      className=" col-sm-12 col-md-3 col-lg-3 col d-flex justify-content-center"
-      //   style={{
-      //     backgroundImage: `url("/fern.jpg")`,
-      //     backgroundSize: "100% 100%",
-      //   }}
-    >
+    <div className=" col-sm-12 col-md-3 col-lg-3  d-flex justify-content-center image-col">
       <div className="" style={{ width: "20.5rem", padding: "0px" }}>
         <Image
           showGif={showGif}
@@ -41,7 +32,7 @@ function Card({ name, repo, web, image, tech, gif }) {
               {" "}
               <b>Technologies: </b>
               {tech.map((tech) => (
-                <span className="card-text"> {`${tech},   `}</span>
+                <span className="card-text"> {tech.join(", ")}</span>
               ))}
             </p>
           </div>
