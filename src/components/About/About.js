@@ -10,7 +10,7 @@ function About() {
             <h1>Benjamin Gross</h1>
             <img
               id="ben-pic"
-              src="https://scontent-lga3-2.xx.fbcdn.net/v/t31.0-8/1909372_10202070402856112_652077199_o.jpg?_nc_cat=102&ccb=3&_nc_sid=09cbfe&_nc_ohc=372HNjBqmb0AX8NcSNQ&_nc_ht=scontent-lga3-2.xx&oh=797e1f6f25e88c2cc19310a08912a284&oe=605AA92F"
+              src="/Ben-pic.HEIC"
               classNAme="img-thumbnail"
               alt="Profile-Pic"
             />
