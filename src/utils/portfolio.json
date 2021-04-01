@@ -38,7 +38,7 @@
     "repo": "https://benrgross.github.io/employee-directory/",
     "web": "https://github.com/benrgross/employee-directory",
     "image": "/directory.png",
-    "gif": "./employee-dir.gif",
+    "gif": "/employee.gif",
     "tech": ["React JS", "Third Party API", "Bootstrap"]
   },
   {
@@ -67,7 +67,7 @@
     "repo": "https://github.com/benrgross/Coding-Quiz",
     "web": "https://benrgross.github.io/Coding-Quiz/",
     "image": "/quiz-md.png",
-    "gif": "./quiz-fun-ben.gif",
+    "gif": "/quiz.gif",
     "tech": ["JavaScript"]
   },
   {
@@ -75,7 +75,7 @@
     "repo": "https://github.com/benrgross/Whats-For-Dinner",
     "web": "https://benrgross.github.io/Whats-For-Dinner/",
     "image": "/dinner.png",
-    "gif": "./whats-for-dinner.gif",
+    "gif": "/dinner.gif",
     "tech": [
       "JavaScript",
       "JQuery",
@@ -89,7 +89,7 @@
     "repo": " https://budget-fun.herokuapp.com/",
     "web": "https://github.com/benrgross/Budget-Buddy",
     "image": "/budget.png",
-    "gif": "./budget.gif",
+    "gif": "/budget.gif",
     "tech": [
       "JavaScript",
       "Node JS",
@@ -109,7 +109,7 @@
     "repo": " https://workout-fun.herokuapp.com/",
     "web": "https://github.com/benrgross/Workout-Tracker",
     "image": "/fitness.png",
-    "gif": "./Workout-Gif.gif",
+    "gif": "/workout.gif",
     "tech": [
       "JavaScript",
       "Node JS",
