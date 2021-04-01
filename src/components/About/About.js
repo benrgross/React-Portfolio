@@ -17,8 +17,9 @@ function About() {
                 </div>
                 <div className="row">
                   <div className="col-sm-12 col-md-6 col-lg-6">
-                    <div className="card img-card-top">
+                    <div className=" pic-cont">
                       <img
+                        style={{ width: "100%" }}
                         id="ben-pic"
                         src="https://media-exp1.licdn.com/dms/image/C5603AQGoBEegJo3xUg/profile-displayphoto-shrink_800_800/0/1582653629898?e=1622678400&v=beta&t=3nOtJrB9i28cfql0MWIh7bA3vwYzLpJSm34ec8h5yD8"
                         classNAme="img-thumbnail"
@@ -26,7 +27,7 @@ function About() {
                       />
                     </div>
                   </div>
-                  <div className="col-sm-12 col-md-6 col-lg-6">
+                  <div className="col-sm-12 col-md-6 col-lg-6 ">
                     <p>
                       Full Stack Web Developer with a background in Horticulture
                       and Landscape design. Equipped with an education in
