@@ -8,7 +8,7 @@ function Card({ name, repo, web, image, tech, gif }) {
   const showGif = useBoolean(false);
 
   return (
-    <div className=" col-sm-12 col-md-3 col-lg-3  d-flex justify-content-center image-col">
+    <div className=" col-sm-12 col-md-6 col-lg-4 d-flex justify-content-center image-col">
       <div className="" style={{ width: "20.5rem", padding: "0px" }}>
         <Image
           showGif={showGif}
@@ -31,9 +31,7 @@ function Card({ name, repo, web, image, tech, gif }) {
             <p>
               {" "}
               <b>Technologies: </b>
-              {tech.map((tech) => (
-                <span className="card-text"> {tech.join(", ")}</span>
-              ))}
+              <span className="card-text"> {tech.join(", ")}</span>
             </p>
           </div>
         ) : (

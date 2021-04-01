@@ -1,11 +1,11 @@
 /* A column for my about me content  */
-.portfolio-img:hover {
+/* .portfolio-img:hover {
   border: 2px solid blue;
-}
+} */
 
-#about {
+/* #about {
   width: 60%;
-}
+} */
 
 .text-box {
   /* float: left; */
@@ -30,13 +30,16 @@ h4 {
   margin-top: 20px;
 }
 
-/* styled about photo  */
-#ben-pic {
-  max-width: 60%;
-  height: 300px;
+.card {
+  background-color: none !important;
+}
+
+.card#ben-pic {
+  /* max-width: 70%; */
+  /* height: 300px; */
   border: none;
-  float: left;
-  margin-right: 15px;
+  /* float: left; */
+  margin-left: 15px;
 }
 
 /* styled footer  */

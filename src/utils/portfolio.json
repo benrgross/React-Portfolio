@@ -1,5 +1,31 @@
 [
   {
+    "name": "Trowel",
+    "repo": "https://github.com/benrgross/Trowel",
+    "web": "https://trowel-app.herokuapp.com/",
+    "image": "/trowel.png",
+    "gif": "/trowel.gif",
+    "tech": [
+      "JavaScript",
+      "Node JS",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "JAWSDB",
+      "MVC",
+      "React-strap",
+      "Trefle API"
+    ]
+  },
+  {
+    "name": "Employee Directory",
+    "repo": "https://benrgross.github.io/employee-directory/",
+    "web": "https://github.com/benrgross/employee-directory",
+    "image": "/directory.png",
+    "gif": "/employee.gif",
+    "tech": ["React JS", "Third Party API", "Bootstrap"]
+  },
+  {
     "name": "Build A Burger",
     "repo": "https://github.com/benrgross/Build-A-Burger",
     "web": "https://burger-fun.herokuapp.com/",
@@ -16,30 +42,6 @@
       "Bootstrap",
       "Handlenbars"
     ]
-  },
-
-  {
-    "name": "Weather Dash",
-    "repo": "https://github.com/benrgross/Weather-Dashboard",
-    "web": "https://benrgross.github.io/Weather-Dashboard/",
-    "image": "/weather.png",
-    "gif": "/Weather.gif",
-    "tech": [
-      "JavaScript",
-      "JQuery",
-      "MomentJs",
-      "Open Weather API",
-      "Bootstrap"
-    ]
-  },
-
-  {
-    "name": "Employee Directory",
-    "repo": "https://benrgross.github.io/employee-directory/",
-    "web": "https://github.com/benrgross/employee-directory",
-    "image": "/directory.png",
-    "gif": "/employee.gif",
-    "tech": ["React JS", "Third Party API", "Bootstrap"]
   },
   {
     "name": "Pipe Cleaner",
@@ -63,12 +65,18 @@
   },
 
   {
-    "name": "Coding Quiz",
-    "repo": "https://github.com/benrgross/Coding-Quiz",
-    "web": "https://benrgross.github.io/Coding-Quiz/",
-    "image": "/quiz-md.png",
-    "gif": "/quiz.gif",
-    "tech": ["JavaScript"]
+    "name": "Weather Dash",
+    "repo": "https://github.com/benrgross/Weather-Dashboard",
+    "web": "https://benrgross.github.io/Weather-Dashboard/",
+    "image": "/weather.png",
+    "gif": "/Weather.gif",
+    "tech": [
+      "JavaScript",
+      "JQuery",
+      "MomentJs",
+      "Open Weather API",
+      "Bootstrap"
+    ]
   },
   {
     "name": "Whats For Dinner",
@@ -84,6 +92,16 @@
       "Google Maps API"
     ]
   },
+
+  {
+    "name": "Coding Quiz",
+    "repo": "https://github.com/benrgross/Coding-Quiz",
+    "web": "https://benrgross.github.io/Coding-Quiz/",
+    "image": "/quiz-md.png",
+    "gif": "/quiz.gif",
+    "tech": ["JavaScript"]
+  },
+
   {
     "name": "Budget Buddy",
     "repo": " https://budget-fun.herokuapp.com/",

@@ -17,15 +17,15 @@
   /* height: 500px; */
   margin: 1rem;
   position: relative;
-  width: 325px;
+  width: 20rem;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
 }
 
 .image-col {
   margin-top: 100px;
-  margin-left: 40px;
-  margin-right: 50px;
+  /* margin-left: 40px;
+  margin-right: 50px; */
   margin-bottom: 50px;
   background-image: none !important;
   /* margin-right: 10px !important;
@@ -63,7 +63,7 @@ a {
   width: 30.5rem;
 }
 
-@media (min-width: 900px) and (max-width: 11000px) {
+/* @media (min-width: 900px) and (max-width: 11000px) {
   .row {
     display: flex;
     justify-content: center;
@@ -76,7 +76,7 @@ a {
     margin-right: 50px;
     margin-left: 50px;
   }
-}
+} */
 /*  */
 /* @media (min-width: 11000px) {
   .col {
