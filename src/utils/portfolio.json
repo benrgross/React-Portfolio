@@ -5,10 +5,11 @@
     "web": "https://trowel-app.herokuapp.com/",
     "image": "/trowel.png",
     "gif": "/trowel.gif",
+    "summery": "I created Trowel to use for my Landscaping bussiness as a way to organize all the plants for a specific garden along with their specific attributes and maintenace needs for all the employees within the company to access and reference",
     "tech": [
       "JavaScript",
-      "React JS",
-      "Node JS",
+      "React.js",
+      "Node.js",
       "Express",
       "MongoDB",
       "Mongoose",
@@ -24,7 +25,8 @@
     "web": "https://github.com/benrgross/employee-directory",
     "image": "/directory.png",
     "gif": "/employee.gif",
-    "tech": ["React JS", "Third Party API", "Bootstrap"]
+    "summery": "The employee directory enlists React.js to easily search and organize employees at a company by first or last name",
+    "tech": ["React.js", "Third Party API", "Bootstrap"]
   },
   {
     "name": "Build A Burger",
@@ -32,9 +34,10 @@
     "web": "https://burger-fun.herokuapp.com/",
     "image": "/burger-sm.png",
     "gif": "/burger.gif",
+    "summery": "This app uses professional design patterns to offer the view a website that demonstrates my skills in in interfacing with MySQL database using a homegrown ORM and manipulating the DOM using Handlebars",
     "tech": [
       "JavaScript",
-      "Node JS",
+      "Node.js",
       "Express",
       "Custom ORM",
       "MYSQL",
@@ -50,10 +53,11 @@
     "web": "https://four-top.herokuapp.com/",
     "image": "/pipe.png",
     "gif": "./pipe.gif",
+    "summery": "Pipe cleaner was developed to help those with digestive and gastroenterological issues pertaining to diet. While this app is the bare bones of the disired product, the aim of pipe cleaner is to aid those in need of tracking the ingredients in the foods they eat and flagging potential foods that may be responsible for an dietary issue.",
     "tech": [
       "JavaScript",
       "JQuery",
-      "Node JS",
+      "Node.js",
       "Express",
       "Sequelize",
       "MYSQL",
@@ -66,15 +70,16 @@
   },
 
   {
-    "name": "Weather Dash",
+    "name": "Weather Dashboard",
     "repo": "https://github.com/benrgross/Weather-Dashboard",
     "web": "https://benrgross.github.io/Weather-Dashboard/",
     "image": "/weather.png",
     "gif": "/Weather.gif",
+    "summery": "The Weather Dashboard is a demonstation of interfacing with a third party API and updating the display dynamically using jQuery.",
     "tech": [
       "JavaScript",
       "JQuery",
-      "MomentJs",
+      "Moment.js",
       "Open Weather API",
       "Bootstrap"
     ]
@@ -85,6 +90,7 @@
     "web": "https://benrgross.github.io/Whats-For-Dinner/",
     "image": "/dinner.png",
     "gif": "/dinner.gif",
+    "summery": "The What's For Dinner App aims to help the indecisive eater choose meal based on a ramdom dish generator. The app interfaces with two differant third party APIs to deliver the user the option of finding that dish at a nearby resteraunt or viewing the recipe to make it at home.",
     "tech": [
       "JavaScript",
       "JQuery",
@@ -100,6 +106,7 @@
     "web": "https://benrgross.github.io/Coding-Quiz/",
     "image": "/quiz-md.png",
     "gif": "/quiz.gif",
+    "summery": "The coding quiz provides a simple demonstation of my vanilla javascript skills to dynamically manipulate the Window Object",
     "tech": ["JavaScript"]
   },
 
@@ -109,16 +116,17 @@
     "web": "https://github.com/benrgross/Budget-Buddy",
     "image": "/budget.png",
     "gif": "/budget.gif",
+    "summery": "Budget Buddy is a simple app that helps the user log expenses and view them graphically. The app also utilizes IndexedDB and a Service Worker to cash and store data available to the user offline",
     "tech": [
       "JavaScript",
-      "Node JS",
+      "Node.js",
       "Express",
       "MongoDB",
       "Mongoose",
       "Indexed DB",
       "Service Worker",
       "PWD",
-      "Chart JS",
+      "Chart.js",
       "Bootstrap",
       "AWS"
     ]
@@ -129,13 +137,14 @@
     "web": "https://github.com/benrgross/Workout-Tracker",
     "image": "/fitness.png",
     "gif": "/workout.gif",
+    "description": "The Workout Tracker is a tool to keep track of your work outs and view your data with easily digestable charts via Chart.js.",
     "tech": [
       "JavaScript",
-      "Node JS",
+      "Node.js",
       "Express",
       "MongoDB",
       "Mongoose",
-      "Chart JS",
+      "Chart.js",
       "Bootstrap",
       "AWS"
     ]

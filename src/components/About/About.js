@@ -44,7 +44,7 @@ function About() {
                 </div>
                 <div className="container text-center">
                   <p id="links" className="ml-auto">
-                    <a href="mailto:benrgross@gmail.com<">
+                    <a href="mailto:benrgross@gmail.com">
                       Email: benrgross@gmail.com,
                     </a>{" "}
                     <span> </span>

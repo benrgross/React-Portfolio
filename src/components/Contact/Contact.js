@@ -5,16 +5,17 @@ function Contact() {
     <div className="container form d-flex justify-content-center">
       <form className="contact shadow">
         <div className="form-group">
-          <label for="exampleFormControlInput1">Name</label>
-          <input
-            type="name"
-            className="form-control"
-            id="exampleFormControlInput1"
-            placeholder="John Doe"
-          />
-        </div>
-        <div className="form-group">
-          <label for="exampleFormControlInput1">Email address</label>
+          <p className="contact-info">Benjamin Gross</p>
+
+          <p className="contact-info">
+            Email: <a href="mailto:benrgross@gmail.com">benrgross@gmail.com </a>
+          </p>
+          <p className="contact-info">Location: Brooklyn, NY</p>
+          <p className="contact-info">
+            {" "}
+            Willing to relocate to: Los Angeles, London, EU and work remotely.
+          </p>
+
           <input
             type="email"
             className="form-control"
@@ -29,6 +30,7 @@ function Contact() {
             id="exampleFormControlTextarea1"
             rows="3"
           ></textarea>
+          <br></br>
           <button type="submit" class="btn btn-primary">
             Submit
           </button>
