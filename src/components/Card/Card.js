@@ -3,7 +3,7 @@ import Image from "../Image/Image";
 import { useBoolean } from "react-hanger";
 import "./style.css";
 
-function Card({ name, repo, web, image, tech, gif }) {
+function Card({ name, repo, web, image, tech, gif, summery }) {
   const showInfo = useBoolean(false);
   const showGif = useBoolean(false);
 
@@ -22,6 +22,7 @@ function Card({ name, repo, web, image, tech, gif }) {
             style={{ padding: "5px" }}
             className="card-body info-card shadow-lg transform"
           >
+            <p className="card-text"> {summery}</p>
             <p className="card-text">
               <a href={web}>Deployed Site </a>
             </p>

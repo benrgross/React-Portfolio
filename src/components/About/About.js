@@ -43,6 +43,7 @@ function About() {
                   </div>
                 </div>
                 <div className="container text-center">
+                  <p>Main Technologies: JavaScript, React.js & Node.js</p>
                   <p id="links" className="ml-auto">
                     <a href="mailto:benrgross@gmail.com">
                       Email: benrgross@gmail.com,
